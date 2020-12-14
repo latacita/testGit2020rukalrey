@@ -22,5 +22,8 @@
 14	merge Antecedentes --no-ff	Conflicto
 15	merge DatosPersonales --no-ff	Conflicto
 16	add+commit
+17	tag FusionTerminada
+18	push origin master		Da conflicto porque se han introducido cambios en el repositorio remoto que no estan en el local, por tanto hay que hacer un pull para traerlos, al traerlos da conflictos que tras solucionar podemos commitear y pushear.
+19	add+commit+push origin (todas las ramas)
 
 
