@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+06	checkout master
+07	checkout Antecedentes
+08	--
+09	commit
