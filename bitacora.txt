@@ -19,4 +19,8 @@
 11	push DatosPersonales
 12	Fusiones			Fast-Forward
 13	add+commit
+14	merge Antecedentes --no-ff	Conflicto
+15	merge DatosPersonales --no-ff	Conflicto
+16	add+commit
+
 
