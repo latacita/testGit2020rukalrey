@@ -1,15 +1,20 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Calleja Reigadas, Rubén               %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01	clone
+02	checkout DatosPersonales
+03	--
+04	--
+05	add+commit
 06	checkout master
 07	checkout Antecedentes
 08	--
-09	commit
+09	add+commit
 10	checkout master
 11	push DatosPersonales
 12	Fusiones			Fast-Forward
