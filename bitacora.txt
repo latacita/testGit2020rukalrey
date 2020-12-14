@@ -6,7 +6,12 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+06	checkout master
+07	checkout Antecedentes
+08	--
+09	commit
 10	checkout master
 11	push DatosPersonales
 12	Fusiones			Fast-Forward
 13	add+commit
+
